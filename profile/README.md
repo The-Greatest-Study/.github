@@ -2,7 +2,21 @@
 
 ---
 
-**공지사항** | &nbsp; 25일(화) 유상욱 새벽3시 퇴근하다.. 스터디.. back..
+### 오늘의 한마디
+
+```
+유상욱 사원은 Terminal로.. 갑니다..
+
+김민호 사원은 M2M으로.. 잘가요..
+
+오지인 사원은 LG전자 SDP 프로젝트에서 열심히 개발 중입니다. ( •̀ ω •́ )✧
+
+김민지 사원은 상암 3일 견학 후 마곡으로.. 안녕..
+```
+
+---
+
+**공지사항** | &nbsp; 토이 프로젝트도 진행해야 하는데.. 우리의 TGS는 어디로...
 <br>
 &emsp;&emsp;&emsp;&emsp;&emsp; [Git Commit message 참고](#commit-command-type)👍<br><br>
 [다음까지 숙제]<br>
@@ -15,20 +29,6 @@
 
 - Git History, GitLens, Git Graph
 - ES7 React/Redux/GraphQL/React-Native snippets
-
----
-
-### Prologue
-
-```
-유상욱 사원은 Terminal로.. 갑니다..
-
-김민호 사원은 M2M으로.. 잘가요..
-
-오지인 사원은 유플러스.. 탈출을.. 꿈꾸는 중입니다..
-
-김민지 사원은 상암 3일 견학 후 마곡으로.. 안녕..
-```
 
 ---
 

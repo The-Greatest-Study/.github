@@ -27,7 +27,7 @@
 
 ---
 
-### Visual Studio Insall Lib List
+### Visual Studio Install Lib List
 
 - Git History, GitLens, Git Graph
 - ES7 React/Redux/GraphQL/React-Native snippets
